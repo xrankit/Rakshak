@@ -1,4 +1,4 @@
-# ⛅ React Weather App (made by _ankiii_07_) ⚛️
+# ⛅ React Weather App (made by Hacked_insights) ⚛️
 
 -✅ Created as a certification project for ImmersED Global Workshops.\
 -✅ API used - https://openweathermap.org/api/one-call-api \
